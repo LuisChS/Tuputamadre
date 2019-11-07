@@ -1,0 +1,6 @@
+Explosions/** filter=lfs diff=lfs merge=lfs -text
+Isometric-Interiors/** filter=lfs diff=lfs merge=lfs -text
+SimpleOffice/** filter=lfs diff=lfs merge=lfs -text
+PolygonSpy/** filter=lfs diff=lfs merge=lfs -text
+PolygonCity/** filter=lfs diff=lfs merge=lfs -text
+AdvancedLocomotionV3/** filter=lfs diff=lfs merge=lfs -text
